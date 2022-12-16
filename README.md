@@ -1,2 +1,2 @@
 # angular-project-2
-Angular 13 CRUD with Angular Material UI and json-server
+Angular 14 CRUD with Angular Material UI and json-server
