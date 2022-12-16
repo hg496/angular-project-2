@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Mango",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "date": "2022-11-24T18:30:00.000Z",
+      "price": 2500,
+      "comment": "Good Quality Apple",
+      "id": 1
+    },
+    {
+      "productName": "Potato",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "date": "2022-12-13T18:30:00.000Z",
+      "price": 20,
+      "comment": "Good",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
